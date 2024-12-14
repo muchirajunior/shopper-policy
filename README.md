@@ -1,0 +1,2 @@
+# shopper-policy
+Privacy Policy
