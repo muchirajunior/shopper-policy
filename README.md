@@ -1,6 +1,6 @@
 # Privacy Policy for Shopper
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 14/12/2024
 
 Shopper values your privacy and is committed to protecting your personal information. This document explains how we handle your data when you use the app.
 
